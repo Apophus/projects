@@ -1,5 +1,4 @@
 
-
 ## Personal projects 
 
 
@@ -79,3 +78,31 @@ Foundation 6 CSS and JavaScript
 
 **Contributors**
  1. Brian Kilel
+ 2. 
+ 
+
+# Choco land
+____________________
+
+**Repo Link**
+
+https://github.com/Apophus/chocoland.git
+
+**Project Details**
+
+A responsive website for Chocoland Club
+
+
+**Features**
+A five page website with:
+ 1. Home page
+ 2. Events page
+ 3. Press page
+ 4. Page for Drinks
+
+**Tools**
+ 1. Foundation web framework
+ 2. CSS
+
+**Contributors**
+ Brian Kilel.
